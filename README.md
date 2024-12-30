@@ -20,6 +20,7 @@ For dynamic queries, try `go-sqlbuilder`, `squirrel`, or `jet` to craft the SQL 
 * [github.com/huandu/go-sqlbuilder](./cmd/sqlbuilder/main.go)
 * [github.com/Masterminds/squirrel](./cmd/squirrel/main.go)
 * [github.com/doug-martin/goqu/v9](./cmd/goqu/main.go)
+* [https://github.com/ido50/sqlz](https://github.com/ido50/sqlz)
 
 ### Struct Scanners 
 * [github.com/georgysavva/scany/v2](./cmd/scany/main.go)
